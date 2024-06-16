@@ -11,3 +11,4 @@ we use the following for development:
 1.HTML
 2.CSS(Flexbox or Grid) and Bootstrap
 3.JavaScript( Event listeners, multiple functions, loops, if/else, InnerText/InnerHtml)
+![Screenshot 2024-06-16 171142](https://github.com/omdeshmukh19/Calculator/assets/151867266/51dd1737-82ed-412f-9b44-71f725791aca)
